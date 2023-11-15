@@ -5,7 +5,7 @@ AI-based Bharatiya Rotary-Systems’ Alignment Web portal. Our website offers an
 Our user-friendly platform allows agricultural professionals to input the initial positions of the blades, enabling the algorithm to swiftly analyse the data and provide recommended adjustments for each control rod corresponding to each blade. By harnessing the potential of artificial intelligence, our algorithm ensures precise blade alignment, enhancing stability and aerodynamics during agricultural flights With a strong commitment to revolutionising agricultural practices, our algorithm's seamless integration into aerial crop spraying and monitoring will significantly enhance agricultural productivity and sustainability. By automating the blade alignment process, we reduce manual calculations, minimise downtime, and improve the accuracy of agricultural operations from above.
 
 # Methodology Developers
-Mr. Samarth Godara, ICAR-IASRI, New Delhi (Artificial Intelligence Expert, email: samarth.godara@icar.gov.in)
+Dr. Samarth Godara, ICAR-IASRI, New Delhi (Artificial Intelligence Expert, email: samarth.godara@icar.gov.in)
 Mr. Madhur Behl, IIT Kharagpur, West Bengal, India (Helicopter Machinery Expert, email: madhurbehl22@gmail.com)
 
 # Expert Guidance
