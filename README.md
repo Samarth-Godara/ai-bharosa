@@ -1,6 +1,8 @@
 # AI-BHAROSA
 AI-based Bharatiya Rotary-Systems’ Alignment Web portal. Our website offers an AI-driven solution for optimizing helicopter blade alignment, specifically tailored to enhance aerial agricultural applications and improve crop productivity.
 
+## Website: https://samarth-godara.github.io/ai-bharosa/
+
 # ABOUT US
 Our user-friendly platform allows agricultural professionals to input the initial positions of the blades, enabling the algorithm to swiftly analyse the data and provide recommended adjustments for each control rod corresponding to each blade. By harnessing the potential of artificial intelligence, our algorithm ensures precise blade alignment, enhancing stability and aerodynamics during agricultural flights With a strong commitment to revolutionising agricultural practices, our algorithm's seamless integration into aerial crop spraying and monitoring will significantly enhance agricultural productivity and sustainability. By automating the blade alignment process, we reduce manual calculations, minimise downtime, and improve the accuracy of agricultural operations from above.
 
